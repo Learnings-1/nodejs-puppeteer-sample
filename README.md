@@ -1,6 +1,10 @@
 ## created on 2024-09-19 06:40 PM
 
-### docker build -t syedimran1/pup-1:latest .
+### Step1
+
+```
+docker build -t syedimran1/pup-1:latest .
+```
 
 ### docker push syedimran1/pup-1:latest
 
