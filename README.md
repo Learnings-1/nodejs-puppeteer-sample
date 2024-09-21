@@ -2,7 +2,7 @@
 
 ### Step1
 
-```
+```js
 docker build -t syedimran1/pup-1:latest .
 ```
 
