@@ -1,5 +1,3 @@
-## created on 2024-09-19 06:40 PM
-
 ## Replace syedimran1 with your own docker username
 
 ### Step1
