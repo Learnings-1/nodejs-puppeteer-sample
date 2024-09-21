@@ -6,6 +6,14 @@
 docker build -t syedimran1/pup-1:latest .
 ```
 
-### docker push syedimran1/pup-1:latest
+### Step 2
 
-### cf push pup-1 --docker-image syedimran1/pup-1:latest
+```js
+docker push syedimran1/pup-1:latest
+```
+
+### Step3 :
+
+```js
+cf push pup-1 --docker-image syedimran1/pup-1:latest
+```
